@@ -1,0 +1,24 @@
+{
+  "Squirtle": {
+    "href": "/learning/Squirtle",
+    "logo": "/1.png",
+    "info": "Squirtle เป็นหนึ่งในเหล่าโปเกมอน (Pokémon) จากซีรีส์เกมและอนิเมะชื่อดังที่มีชื่อเดียวกัน มันเป็นหนึ่งในสามตัวเลือกโปเกมอนเริ่มต้นในเกม Pokémon Red และ Pokémon Blue รวมถึงเวอร์ชั่นต่างๆ ของเกมโปเกมอนที่ตามมา  ",
+    "name": "React JS",
+    "hoverClass": "hover:border-blue-300"
+  },
+  "Bulbasaur": {
+    "href": "/learning/Bulbasaur",
+    "logo": "/2.png",
+    "info": "Bulbasaur เป็นหนึ่งในเหล่าโปเกมอน (Pokémon) จากซีรีส์เกมและอนิเมะชื่อดังที่มีชื่อเดียวกัน มันเป็นหนึ่งในสามตัวเลือกโปเกมอนเริ่มต้นในเกม Pokémon Red และ Pokémon Blue รวมถึงเวอร์ชั่นต่างๆ ของเกมโปเกมอนที่ตามมา ",
+    "name": "Bulbasaur",
+    "hoverClass": "hover:border-green-500"
+  },
+
+  "Charmander": {
+    "href": "/learning/Charmander ",
+    "logo": "/3.png",
+    "info": "Charmander เป็นหนึ่งในเหล่าโปเกมอน (Pokémon) จากซีรีส์เกมและอนิเมะชื่อดังที่มีชื่อเดียวกัน มันเป็นหนึ่งในสามตัวเลือกโปเกมอนเริ่มต้นในเกม Pokémon Red และ Pokémon Blue รวมถึงเวอร์ชั่นต่างๆ ของเกมโปเกมอนที่ตามมา",
+    "name": "Charmander",
+    "hoverClass": "hover:border-red-500"
+  }
+}
